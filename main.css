@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.header h1 {
+  padding: 1rem;
+  text-align: center;
+  color: white;
+}
+.background {
+  height: 100vh;
+  color: blue;
+  background: blue;
+}
